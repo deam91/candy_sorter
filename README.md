@@ -1,6 +1,6 @@
 # Candy Sorter
 
-This application is part of the March challenge (2022) for Flutter.
+🥇 This application is part of the March challenge (2022) for Flutter 🥇
 
 You can find the details at https://flutterchallenge.dev/lets-eat-some-candies
 
